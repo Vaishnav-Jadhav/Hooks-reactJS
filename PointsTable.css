@@ -1,0 +1,24 @@
+
+.main-div{
+    position: relative;
+    width: 90%;
+    left: 60px;
+}
+table
+{
+    position: relative;
+    width: 100%;
+}
+tr{
+    height: 60px;
+    align-items: center;
+}
+
+.teamName{
+    font-weight: bold;
+    font-size: 15px;
+}
+.heading{
+    font-weight: bolder;
+    text-align: center;
+}
